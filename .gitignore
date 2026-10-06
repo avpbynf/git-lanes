@@ -1,9 +1,6 @@
 __pycache__/
 *.pyc
 
-# the worktrees a lot is written in, and whatever else is only ever local
-.claude/
-
 node_modules/
 web/dist/
 
