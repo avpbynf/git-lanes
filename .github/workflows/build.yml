@@ -1,5 +1,5 @@
 # The gates a contributor runs, run again where nobody's machine is involved: the page is linted
-# and type checked, and the window is compiled. CLAUDE.md says a change to one backend is a change
+# and type checked, and the window is compiled. docs/development.md says a change to one backend is a change
 # to both, and this is what catches the half that was forgotten, on a branch that has not reached
 # main yet rather than in the release.
 #

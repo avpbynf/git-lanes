@@ -242,4 +242,4 @@ it dead. Bun needs no such module, and the whole build takes under a tenth of a 
 | --- | --- |
 | See what changed from one version to the next | [CHANGELOG.md](CHANGELOG.md) |
 | Know how work enters this repository and how a version leaves it | [CONTRIBUTING.md](CONTRIBUTING.md) |
-| Understand how it is built, and what has already cost time here | [CLAUDE.md](CLAUDE.md) |
+| Understand how it is built, and what has already cost time here | [docs/development.md](docs/development.md) |

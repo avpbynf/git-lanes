@@ -45,5 +45,5 @@ Say which of these the claim rests on. An unticked line is not a failure, it is 
       still has to compile in Rust.
 - [ ] `CHANGELOG.md` carries an entry under `Unreleased`, or this changes nothing somebody running
       the tool would see.
-- [ ] Every place that states a fact this branch changed now states the new one: `CLAUDE.md`,
-      `README.md`, `CONTRIBUTING.md`, and the comments that gave a reason for what moved.
+- [ ] Every place that states a fact this branch changed now states the new one: `README.md`,
+      `CONTRIBUTING.md`, `docs/development.md`, and the comments that gave a reason for what moved.
