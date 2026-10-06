@@ -1,7 +1,8 @@
 # Contributing
 
 How work enters this repository and how a version leaves it. What the tool is and how to run it is
-in the README; how it is built and what has already cost time here is in CLAUDE.md.
+in the README; how it is built and what has already cost time here is in
+[docs/development.md](docs/development.md).
 
 ## Branches
 
@@ -45,7 +46,7 @@ done, and the answer is to rebase rather than to merge.
 does not follow is code that moved between files, which comes back as a conflict whose two sides
 are about different places. And a fact may change on one side while the other side's prose still
 describes the old one, far from anything git touched: that compiles, reads well, and is false.
-This repository states the same fact in `CLAUDE.md`, in `README.md` and in a comment often enough
+This repository states the same fact in `docs/development.md`, in `README.md` and in a comment often enough
 for that to be the ordinary case rather than the unlucky one.
 
 ### A pull request merges one way
